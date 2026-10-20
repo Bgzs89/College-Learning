@@ -1,0 +1,15 @@
+*.class
+*.o
+*.exe
+.DS_Store
+.classpath
+.project
+.settings/
+bin/
+out/
+target/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
